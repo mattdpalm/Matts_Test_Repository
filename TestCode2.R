@@ -19,3 +19,5 @@ AdjustedRSquared <- G$adj.r.squared
 #ANd now for something completely different
 
 #This is an unadvisable change
+
+#Opps
