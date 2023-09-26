@@ -10,4 +10,6 @@ d..$W <-  d..$X/d..$Y
 A <- c(2,6,8,29,1,6)
 B <- c(9,1,3,-3,19,2)
 
-summary(lm(B~A))
+G <- summary(lm(B~A))
+
+AdjustedRSquared <- G$adj.r.squared
