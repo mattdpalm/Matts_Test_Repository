@@ -13,3 +13,7 @@ B <- c(9,1,3,-3,19,2)
 G <- summary(lm(B~A))
 
 AdjustedRSquared <- G$adj.r.squared
+
+
+
+#ANd now for something completely different
