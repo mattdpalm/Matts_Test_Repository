@@ -1,0 +1,4 @@
+######
+d.. <- read.csv(file="Data.csv")
+
+dim(d..)
